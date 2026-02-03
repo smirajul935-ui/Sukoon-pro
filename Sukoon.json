@@ -16,11 +16,5 @@
         "key": "tech1",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "baba75381e5ad620",
-        "key": "tech2",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
     }
 ]
