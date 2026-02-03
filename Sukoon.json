@@ -28,5 +28,11 @@
         "key": "tech2",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed0fb8e83c37a027",
+        "key": "key3",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
